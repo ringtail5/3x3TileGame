@@ -244,7 +244,7 @@ function love.draw()
     love.graphics.draw(sprites.tile7, tile7.x, tile7.y)
     love.graphics.draw(sprites.tile8, tile8.x, tile8.y)
 
-    love.graphics.print(closestTile, 5, 5)
+    --love.graphics.print(closestTile, 5, 5)
 
 end
 
